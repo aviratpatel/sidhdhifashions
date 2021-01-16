@@ -6,7 +6,7 @@
     "node":"14.15.1",
     "npm":"6.14.8"
   },
-  "homepage": "https://sidhdhifashions.herokuapp.com/sidhdhifashions/",
+  "homepage": "https://sidhdhifashions.herokuapp.com/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
