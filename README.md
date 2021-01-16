@@ -1,3 +1,9 @@
+# Most important troubleshooting TIP
+You must update home page of the react-responsive-carousel node mudule package.json file with your GIT hub repository otherwise, it will crash
+  "homepage": "http://aviratpatel.github.io/sidhdhifashions",
+  "homepage": "http://leandrowd.github.io/react-responsive-carousel/",
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

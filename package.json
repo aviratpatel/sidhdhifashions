@@ -2,12 +2,14 @@
   "name": "sidhdhifashions",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://aviratpatel.github.io/sidhdhifashions",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-responsive-carousel": "^3.2.11",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
@@ -15,7 +17,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "pre-deploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
