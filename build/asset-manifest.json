@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/sidhdhifashions/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/sidhdhifashions/static/js/main.05e33847.chunk.js",
+    "main.js.map": "/sidhdhifashions/static/js/main.05e33847.chunk.js.map",
+    "runtime-main.js": "/sidhdhifashions/static/js/runtime-main.17e463bf.js",
+    "runtime-main.js.map": "/sidhdhifashions/static/js/runtime-main.17e463bf.js.map",
+    "static/css/2.55d8add8.chunk.css": "/sidhdhifashions/static/css/2.55d8add8.chunk.css",
+    "static/js/2.c69c2fd2.chunk.js": "/sidhdhifashions/static/js/2.c69c2fd2.chunk.js",
+    "static/js/2.c69c2fd2.chunk.js.map": "/sidhdhifashions/static/js/2.c69c2fd2.chunk.js.map",
+    "static/js/3.898f3c69.chunk.js": "/sidhdhifashions/static/js/3.898f3c69.chunk.js",
+    "static/js/3.898f3c69.chunk.js.map": "/sidhdhifashions/static/js/3.898f3c69.chunk.js.map",
+    "index.html": "/sidhdhifashions/index.html",
+    "static/css/2.55d8add8.chunk.css.map": "/sidhdhifashions/static/css/2.55d8add8.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/sidhdhifashions/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c69c2fd2.chunk.js.LICENSE.txt": "/sidhdhifashions/static/js/2.c69c2fd2.chunk.js.LICENSE.txt",
+    "static/media/IMG-20201010-WA0060.jpg": "/sidhdhifashions/static/media/IMG-20201010-WA0060.797b3676.jpg",
+    "static/media/IMG-20201010-WA0061.jpg": "/sidhdhifashions/static/media/IMG-20201010-WA0061.0cec3b4c.jpg",
+    "static/media/IMG-20201010-WA0062.jpg": "/sidhdhifashions/static/media/IMG-20201010-WA0062.e5aa7d33.jpg",
+    "static/media/IMG-20201010-WA0063.jpg": "/sidhdhifashions/static/media/IMG-20201010-WA0063.eb0205c6.jpg",
+    "static/media/IMG-20201010-WA0064.jpg": "/sidhdhifashions/static/media/IMG-20201010-WA0064.5918705a.jpg",
+    "static/media/pic1.jpg": "/sidhdhifashions/static/media/pic1.b31edf4b.jpg",
+    "static/media/pic2.jpg": "/sidhdhifashions/static/media/pic2.55ab6357.jpg",
+    "static/media/pic3.jpg": "/sidhdhifashions/static/media/pic3.efa7d10d.jpg",
+    "static/media/pic4.jpg": "/sidhdhifashions/static/media/pic4.9c51435a.jpg",
+    "static/media/pic5.jpg": "/sidhdhifashions/static/media/pic5.92e9f8ac.jpg",
+    "static/media/pic6.jpg": "/sidhdhifashions/static/media/pic6.cfe3ec2f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17e463bf.js",
+    "static/css/2.55d8add8.chunk.css",
+    "static/js/2.c69c2fd2.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.05e33847.chunk.js"
+  ]
+}
