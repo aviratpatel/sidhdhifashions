@@ -3,6 +3,26 @@ You must update home page of the react-responsive-carousel node mudule package.j
   "homepage": "http://aviratpatel.github.io/sidhdhifashions",
   "homepage": "http://leandrowd.github.io/react-responsive-carousel/",
 
+I have added react-responsive-carousel from net to show carousel effects
+I have added one more component to show images in a lazy fashion - react-lazy-load-image-component
+
+Below are steps I followed on high level.
+
+C:\React>npx create-react-app sidhdhifashions
+C:\React>cd sidhdhifashions
+npm install gh-pages --save-dev
+npm install react-responsive-carousel --save
+npm install react-lazy-load-image-component --save
+npm install react-lazy-load-image-component --save
+
+Made changes to App.js and /compoennt/carousel.component.js files; also added Top Image along with ScrollToTopComponent.js file
+Tracked all changes with help of ATOM and commited to master branch using ATOM
+
+git status
+git remote add origin https://github.com/aviratpatel/sidhdhifashions.git
+git push -u origin master
+
+I went to Heroku portal and deployed it directly from github
 
 # Getting Started with Create React App
 
